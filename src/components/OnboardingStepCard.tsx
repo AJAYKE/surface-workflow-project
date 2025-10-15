@@ -105,12 +105,12 @@ export function OnboardingStepCard({
     case "failed":
       borderColorClass = "border-danger-300";
       message = (
-        <div className="flex flex-col gap-1">
+        <div className="text-neutral-800 flex flex-col gap-1">
           <p className="text-sm leading-5 tracking-tight">
             We couldn&apos;t detect the Surface Tag on your website. Please ensure
             the snippet is added correctly.
           </p>
-          <ul className="text-danger-600 list-disc space-y-0.5 pl-5 text-xs leading-[17px] tracking-tight">
+          <ul className="text-neutral-400 list-disc space-y-0.5 pl-5 text-xs leading-[17px] tracking-tight">
             <li>
               Recheck the code snippet to ensure it&apos;s correctly placed before
               the closing &lt;/head&gt; tag.

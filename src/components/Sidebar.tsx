@@ -21,22 +21,22 @@ const sidebarStyles = {
 
   brand: "text-2xl font-sora font-bold",
   brandPrimary: "text-neutral-900",
-  brandSecondary: "text-primary-600",
+  brandSecondary: "text-white bg-primary-600 px-2 py-1 rounded",
 
   workspaceRow:
-    "flex items-center justify-between rounded-lg px-3 py-2.5 text-neutral-700 hover:bg-neutral-50 transition-colors cursor-pointer",
+    "flex items-center justify-between rounded-lg px-3 py-2.5 text-neutral-700 hover:bg-neutral-200 transition-colors cursor-pointer",
   workspaceText: "text-sm font-medium",
   chevron: "h-4 w-4 text-neutral-400",
 
   gettingStartedBtn:
-    "flex items-center rounded-lg px-3 py-2.5 font-medium bg-neutral-800 text-white hover:bg-neutral-900 transition-colors",
+    "flex items-center rounded-lg px-3 py-2.5 font-medium bg-neutral-500 text-white hover:bg-neutral-900 transition-colors",
   gettingStartedIcon: "h-5 w-5 mr-3",
 
   navList: "space-y-1",
   navItemBase:
     "flex items-center rounded-lg px-3 py-2.5 font-medium transition-colors text-sm",
   navItemActive: "bg-neutral-100 text-neutral-700",
-  navItemInactive: "text-neutral-500 hover:bg-neutral-50 hover:text-neutral-700",
+  navItemInactive: "text-neutral-400 hover:bg-neutral-200 hover:text-neutral-700",
   navIcon: "h-5 w-5 mr-3 shrink-0",
 
   footer:
