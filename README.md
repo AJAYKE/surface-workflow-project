@@ -2,7 +2,7 @@ The following email is to explain the assignment and what I did.
 
 ## MAIN SUBMISSION: https://surface-ajay.vercel.app/
 ## HTML to test the tag: 
-(Index.html)[https://github.com/AJAYKE/surface-workflow-project/blob/main/public/index.html]
+[Index.html](https://github.com/AJAYKE/surface-workflow-project/blob/main/public/index.html)
 ## Code: https://github.com/AJAYKE/surface-workflow-project/
 
 Firstly, thank you for this assignment. I got to know about the Identity graph. It is really fascinating. I did not know about that till now. Secondly, working on building a bare minimum version of it felt good. I will read more about it.
